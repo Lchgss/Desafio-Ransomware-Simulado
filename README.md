@@ -22,7 +22,7 @@ No projeto abaixo foi usado "nano encripta.py"
 
 Importe as bibliotecas os e pyaes
 
-![image](https://github.com/user-attachments/assets/bb6dd8ae-34fb-453f-b53d-335c6deacc0f)
+![image](https://github.com/user-attachments/assets/5c3d9797-ab3e-40f4-9981-b90f054bebd5)
 
 O codigo abaixo vai abrir o arquivo para criptografar
 
