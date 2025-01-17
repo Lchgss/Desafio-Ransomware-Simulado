@@ -1,0 +1,2 @@
+Estou conseguindo ler esse arquivo sem problemas!!!
+
